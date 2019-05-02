@@ -1,12 +1,12 @@
 <template>
     <footer class="footer">
-        <span>Copyright <strong>CrDeveloper</strong> © 2015-2019</span>
+        <span>Copyright <strong>Cod3r</strong> © 2015-2018</span>
     </footer>
 </template>
 
 <script>
 export default {
-    name: 'Footer'
+    name: "Footer"
 }
 </script>
 

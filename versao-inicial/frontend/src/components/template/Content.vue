@@ -1,6 +1,6 @@
 <template>
     <div class="content">
-        <router-view></router-view>>
+        <router-view></router-view>
     </div>
 </template>
 
@@ -10,10 +10,10 @@ export default {
 }
 </script>
 
-<style> 
+<style>
     .content {
         grid-area: content;
-        background-color: #efefff;
+        background-color: #efefef;
         padding: 20px;
     }
 </style>
